@@ -16,3 +16,4 @@ class Pelicula:
         self._nombre = nombre
 
 
+#programa me marcaba un error por no encapsular el atributo nombre
