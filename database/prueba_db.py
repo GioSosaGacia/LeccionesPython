@@ -80,4 +80,4 @@ finally:
 
 
 #%s = En Python, el marcador de posición %s sirve para indicar el tipo de variable que se quiere imprimir en una cadena.
-# Para usar %s, se debe colocar el valor real después del operador %
+# Para usar %s, se debe colocar el valor real después del operador % en este caso se utiliza ?
