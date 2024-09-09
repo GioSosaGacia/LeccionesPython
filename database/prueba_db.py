@@ -14,7 +14,7 @@ user = 'Giovanni'
 password ='Uppercase1.'
 
 
-#try:        #conect pasa un diccionario de datos
+#try:        #connect pasa un diccionario de datos
 conexion = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL server};'
                           'SERVER='+server+';'
                           'DATABASE='+db+';'
