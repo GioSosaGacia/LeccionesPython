@@ -14,7 +14,7 @@ import logging as log
 #format permite dar un formato al mensaje que se arrojara
 log.basicConfig(level=log.DEBUG,
                 format='%(asctime)s: %(levelname)s [%(filename)s:%(lineno)s] %(message)s',#aque hora ocurrio el error, nivel del error de los 5 que ahi, en que archivo arrojo el mensaje y en que linea paso
-                datefmt='%I:%M:%S %p',#modificar la forma en la que semuestra la fecha hora,minutos,segundos y la p= pm
+                datefmt='%I:%M:%S %p',#modificar la forma en la que semuestra la fecha, hora,minutos,segundos y la p= pm
                 handlers=[
                     log.FileHandler('capa_datos.log'),#para vigilar el archivo que se envia a logging y crear el archivo
                     log.StreamHandler()#StreamHandler es una subclase de la clase base Handler que se encarga de enviar mensajes de registro a la consola.
@@ -25,7 +25,6 @@ if __name__ == '__main__':
     log.debug('Mensaje a nivel debbug')
     log.info('Mensaje a nivel de info')
     log.warning('Mensaje a nivel de warning')
-    log.error('Mensaje a '
-              ' de error')
+    log.error('Mensaje a nivel de error')
     log.critical('Mensaje a nivel de critical')
 

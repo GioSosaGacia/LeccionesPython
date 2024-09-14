@@ -1,0 +1,588 @@
+03:33:12 PM: DEBUG [logger_baseL.py:16] Error a nivel debug
+03:33:12 PM: INFO [logger_baseL.py:17] Mensaje a nivel de info
+03:33:12 PM: WARNING [logger_baseL.py:18] Mensaje a nivel de warning
+03:33:12 PM: ERROR [logger_baseL.py:19] Mensaje a nivel de error
+03:33:12 PM: CRITICAL [logger_baseL.py:20] Mensaje a nivel de critical
+03:36:28 PM: DEBUG [logger_baseL.py:16] Error a nivel debug
+03:36:28 PM: INFO [logger_baseL.py:17] Mensaje a nivel de info
+03:36:28 PM: WARNING [logger_baseL.py:18] Mensaje a nivel de warning
+03:36:28 PM: ERROR [logger_baseL.py:19] Mensaje a nivel de error
+03:36:28 PM: CRITICAL [logger_baseL.py:20] Mensaje a nivel de critical
+03:37:38 PM: DEBUG [usuarioL.py:42] 
+         id_usuario: 1, 
+            Usuario: Juan, 
+            Password: Garcia
+03:38:07 PM: DEBUG [usuarioL.py:42] 
+         id_usuario: 1, 
+            Usuario: Juan, 
+            Password: Garcia
+03:38:47 PM: DEBUG [usuarioL.py:42] 
+         id_usuario: 1, 
+            Usuario: Juan, 
+            Password: Garcia
+10:21:43 AM: DEBUG [logger_baseL.py:19] Error a nivel debug
+10:21:43 AM: INFO [logger_baseL.py:20] Mensaje a nivel de info
+10:21:43 AM: WARNING [logger_baseL.py:21] Mensaje a nivel de warning
+10:21:43 AM: ERROR [logger_baseL.py:22] Mensaje a nivel de error
+10:21:43 AM: CRITICAL [logger_baseL.py:23] Mensaje a nivel de critical
+11:01:17 AM: WARNING [conexionL.py:32] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000023598502A90>
+11:01:17 AM: WARNING [conexionL.py:43] Conexion obtenida del pool: <connection object at 0x0000023599E62BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:13:55 PM: WARNING [conexionL.py:32] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000002D368262A90>
+01:13:55 PM: WARNING [conexionL.py:43] Conexion obtenida del pool: <connection object at 0x000002D369B9FBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:14:39 PM: WARNING [conexionL.py:35] Ocurrio un error al obtener el pool: 
+01:15:11 PM: WARNING [conexionL.py:32] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000028CE9CA2A90>
+01:15:11 PM: WARNING [conexionL.py:43] Conexion obtenida del pool: <connection object at 0x0000028CEB6FFBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:16:24 PM: WARNING [conexionL.py:32] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000233DBF72C40>
+01:16:24 PM: WARNING [conexionL.py:43] Conexion obtenida del pool: <connection object at 0x00000233DBF5B6A0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+02:05:14 PM: WARNING [conexionL.py:32] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000284D73D8430>
+02:05:14 PM: WARNING [conexionL.py:43] Conexion obtenida del pool: <connection object at 0x00000284D9533BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+02:06:16 PM: WARNING [conexionL.py:32] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000020B17008430>
+02:06:16 PM: WARNING [conexionL.py:43] Conexion obtenida del pool: <connection object at 0x0000020B19141BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+02:06:16 PM: WARNING [conexionL.py:50] Regresando la conexion al pool: <connection object at 0x0000020B19141BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+02:06:34 PM: WARNING [conexionL.py:32] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000011342E58430>
+02:06:34 PM: WARNING [conexionL.py:43] Conexion obtenida del pool: <connection object at 0x0000011344AF1BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+02:06:34 PM: WARNING [conexionL.py:50] Regresando la conexion al pool: <connection object at 0x0000011344AF1BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+02:26:23 PM: WARNING [conexionL.py:32] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000013802A46D60>
+02:26:23 PM: WARNING [conexionL.py:43] Conexion obtenida del pool: <connection object at 0x0000013804285D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+02:26:23 PM: WARNING [conexionL.py:50] Regresando la conexion al pool: <connection object at 0x0000013804285D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+02:26:23 PM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+02:30:11 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000002123E848430>
+02:30:11 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x00000212409B1BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+02:30:11 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x00000212409B1BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+02:40:11 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001FD991A6D60>
+02:40:11 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001FD9A9D5D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+02:40:11 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001FD9A9D5D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+02:40:11 PM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+02:40:11 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001FD9A9D5D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+02:40:11 PM: DEBUG [cursor_del_poolL.py:41] Dentro del bloque with
+02:40:11 PM: DEBUG [cursor_del_poolL.py:43] [(1, 'Giovanni', 'Uppercase1.'), (2, 'Ane', 'Uppercase')]
+02:40:11 PM: DEBUG [cursor_del_poolL.py:28] Se ejecuta metodo __exit__ 
+02:40:11 PM: DEBUG [cursor_del_poolL.py:34] Commit de la transaccion
+02:40:11 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001FD9A9D5D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:56:33 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001F87E9530A0>
+03:56:33 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001F87ED38D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:56:33 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001F87ED38D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:56:33 PM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+03:56:33 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001F87ED38D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:56:33 PM: DEBUG [usuarioDaoL.py:19] Seleccionando usuarios
+03:56:33 PM: DEBUG [cursor_del_poolL.py:28] Se ejecuta metodo __exit__ 
+03:56:33 PM: ERROR [cursor_del_poolL.py:31] Ocurrio una exepcion, se hace rollback: 'Usuario' object has no attribute 'append'<class 'AttributeError'> <traceback object at 0x000001F87F041600>
+03:56:33 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001F87ED38D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:57:26 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000015C3E6280A0>
+03:57:26 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x0000015C3FE1DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:57:26 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x0000015C3FE1DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:57:26 PM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+03:57:26 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x0000015C3FE1DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:57:26 PM: DEBUG [usuarioDaoL.py:19] Seleccionando usuarios
+03:57:26 PM: DEBUG [cursor_del_poolL.py:28] Se ejecuta metodo __exit__ 
+03:57:26 PM: ERROR [cursor_del_poolL.py:31] Ocurrio una exepcion, se hace rollback: 'Usuario' object has no attribute 'append'<class 'AttributeError'> <traceback object at 0x0000015C400F54C0>
+03:57:26 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x0000015C3FE1DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:58:13 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001F264C680A0>
+03:58:13 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001F26645DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:58:13 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001F26645DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:58:13 PM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+03:58:13 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001F26645DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:58:13 PM: DEBUG [usuarioDaoL.py:19] Seleccionando usuarios
+03:58:13 PM: DEBUG [cursor_del_poolL.py:28] Se ejecuta metodo __exit__ 
+03:58:13 PM: DEBUG [cursor_del_poolL.py:34] Commit de la transaccion
+03:58:13 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001F26645DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:58:13 PM: DEBUG [usuarioDaoL.py:56] [[...]]
+03:58:43 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000020E815170A0>
+03:58:43 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x0000020E82D2DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:58:43 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x0000020E82D2DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:58:43 PM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+03:58:43 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x0000020E82D2DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:58:43 PM: DEBUG [usuarioDaoL.py:19] Seleccionando usuarios
+03:58:43 PM: DEBUG [cursor_del_poolL.py:28] Se ejecuta metodo __exit__ 
+03:58:43 PM: DEBUG [cursor_del_poolL.py:34] Commit de la transaccion
+03:58:43 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x0000020E82D2DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:04:19 AM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000019808E780A0>
+10:04:19 AM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001980A66DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:04:19 AM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001980A66DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:04:19 AM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+10:04:19 AM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001980A66DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:04:19 AM: DEBUG [usuarioDaoL.py:19] Seleccionando usuarios
+10:04:19 AM: DEBUG [cursor_del_poolL.py:28] Se ejecuta metodo __exit__ 
+10:04:19 AM: DEBUG [cursor_del_poolL.py:34] Commit de la transaccion
+10:04:19 AM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001980A66DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:05:26 AM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001D6F4C080A0>
+10:05:26 AM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001D6F640EBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:05:26 AM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001D6F640EBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:05:26 AM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+10:05:26 AM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001D6F640EBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:05:26 AM: DEBUG [usuarioDaoL.py:19] Seleccionando usuarios
+10:05:26 AM: DEBUG [cursor_del_poolL.py:28] Se ejecuta metodo __exit__ 
+10:05:26 AM: DEBUG [cursor_del_poolL.py:34] Commit de la transaccion
+10:05:26 AM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001D6F640EBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:27:49 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001BDAFC880A0>
+12:27:49 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001BDB148DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:27:49 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001BDB148DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:27:49 PM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+12:27:49 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001BDB148DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:27:49 PM: DEBUG [usuarioDaoL.py:19] Seleccionando usuarios
+12:27:49 PM: DEBUG [cursor_del_poolL.py:28] Se ejecuta metodo __exit__ 
+12:27:49 PM: DEBUG [cursor_del_poolL.py:34] Commit de la transaccion
+12:27:49 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001BDB148DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:27:49 PM: DEBUG [usuarioDaoL.py:56] 
+         id_usuario: 1, 
+            Usuario: Giovanni, 
+            Password: Uppercase1.
+12:29:00 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001B346B970A0>
+12:29:00 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001B34838DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:29:00 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001B34838DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:29:00 PM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+12:29:00 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001B34838DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:29:00 PM: DEBUG [usuarioDaoL.py:19] Seleccionando usuarios
+12:29:00 PM: DEBUG [cursor_del_poolL.py:28] Se ejecuta metodo __exit__ 
+12:29:00 PM: DEBUG [cursor_del_poolL.py:34] Commit de la transaccion
+12:29:00 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001B34838DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:29:00 PM: DEBUG [usuarioDaoL.py:56] 
+         id_usuario: 1, 
+            Usuario: Giovanni, 
+            Password: Uppercase1.
+12:29:13 PM: DEBUG [usuarioL.py:42] 
+         id_usuario: 1, 
+            Usuario: Juan, 
+            Password: Garcia
+12:29:29 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000013B61EE80A0>
+12:29:29 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x0000013B636DDBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:29:29 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x0000013B636DDBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:29:29 PM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+12:29:29 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x0000013B636DDBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:29:29 PM: DEBUG [usuarioDaoL.py:19] Seleccionando usuarios
+12:29:29 PM: DEBUG [cursor_del_poolL.py:28] Se ejecuta metodo __exit__ 
+12:29:29 PM: DEBUG [cursor_del_poolL.py:34] Commit de la transaccion
+12:29:29 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x0000013B636DDBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:29:29 PM: DEBUG [usuarioDaoL.py:56] 
+         id_usuario: 1, 
+            Usuario: Giovanni, 
+            Password: Uppercase1.
+12:30:35 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001BCB06A80A0>
+12:30:35 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001BCB1E9DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:30:35 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001BCB1E9DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:30:35 PM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+12:30:35 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001BCB1E9DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:30:35 PM: DEBUG [usuarioDaoL.py:19] Seleccionando usuarios
+12:30:35 PM: DEBUG [cursor_del_poolL.py:28] Se ejecuta metodo __exit__ 
+12:30:35 PM: DEBUG [cursor_del_poolL.py:34] Commit de la transaccion
+12:30:35 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001BCB1E9DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:30:35 PM: DEBUG [usuarioDaoL.py:56] 
+         id_usuario: 1, 
+            Usuario: Giovanni, 
+            Password: Uppercase1.
+12:43:43 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001C058EC4400>
+12:43:43 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001C05A6BBD00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:43:43 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001C05A6BBD00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:43:53 PM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+12:43:53 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001C05A6BBD00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:43:53 PM: DEBUG [usuarioDaoL.py:19] Seleccionando usuarios
+12:43:53 PM: DEBUG [cursor_del_poolL.py:28] Se ejecuta metodo __exit__ 
+12:43:53 PM: DEBUG [cursor_del_poolL.py:34] Commit de la transaccion
+12:43:53 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001C05A6BBD00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:43:53 PM: INFO [menu_app_usuarioL.py:18] [<laboratorio_usuarios.usuarioL.Usuario object at 0x000001C058CC35E0>]
+12:44:13 PM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+12:44:13 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001C05A6BBD00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:44:13 PM: DEBUG [usuarioDaoL.py:19] Seleccionando usuarios
+12:44:13 PM: DEBUG [cursor_del_poolL.py:28] Se ejecuta metodo __exit__ 
+12:44:13 PM: DEBUG [cursor_del_poolL.py:34] Commit de la transaccion
+12:44:13 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001C05A6BBD00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:44:13 PM: INFO [menu_app_usuarioL.py:18] [<laboratorio_usuarios.usuarioL.Usuario object at 0x000001C058EB7AC0>]
+12:44:48 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000156748B9490>
+12:44:48 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x00000156760D2BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:44:48 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x00000156760D2BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:45:10 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001D874539490>
+12:45:10 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001D875D52BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:45:10 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001D875D52BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:47:18 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001945FC09490>
+12:47:18 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x0000019461422BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:47:18 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x0000019461422BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:47:21 PM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+12:47:21 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x0000019461422BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:47:21 PM: DEBUG [usuarioDaoL.py:19] Seleccionando usuarios
+12:47:21 PM: DEBUG [cursor_del_poolL.py:28] Se ejecuta metodo __exit__ 
+12:47:21 PM: DEBUG [cursor_del_poolL.py:34] Commit de la transaccion
+12:47:21 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x0000019461422BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:47:21 PM: WARNING [menu_app_usuarioL.py:18] [<laboratorio_usuarios.usuarioL.Usuario object at 0x000001945FA235E0>]
+12:48:20 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000249B4879490>
+12:48:20 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x00000249B6082BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:48:20 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x00000249B6082BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:48:23 PM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+12:48:23 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x00000249B6082BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:48:23 PM: DEBUG [usuarioDaoL.py:19] Seleccionando usuarios
+12:48:23 PM: DEBUG [cursor_del_poolL.py:28] Se ejecuta metodo __exit__ 
+12:48:23 PM: DEBUG [cursor_del_poolL.py:34] Commit de la transaccion
+12:48:23 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x00000249B6082BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:48:23 PM: INFO [menu_app_usuarioL.py:18] [<laboratorio_usuarios.usuarioL.Usuario object at 0x00000249B46935E0>]
+12:48:45 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000002CD2B6C9490>
+12:48:45 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000002CD2CEC2BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:48:45 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000002CD2CEC2BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:48:49 PM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+12:48:49 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000002CD2CEC2BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:48:49 PM: DEBUG [usuarioDaoL.py:19] Seleccionando usuarios
+12:48:49 PM: DEBUG [cursor_del_poolL.py:28] Se ejecuta metodo __exit__ 
+12:48:49 PM: DEBUG [cursor_del_poolL.py:34] Commit de la transaccion
+12:48:49 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000002CD2CEC2BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:48:49 PM: WARNING [menu_app_usuarioL.py:18] [<laboratorio_usuarios.usuarioL.Usuario object at 0x000002CD2B4E35E0>]
+12:49:27 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001966A6C9490>
+12:49:27 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001966BEE2BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:49:27 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001966BEE2BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:49:29 PM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+12:49:29 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001966BEE2BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:49:29 PM: DEBUG [usuarioDaoL.py:19] Seleccionando usuarios
+12:49:29 PM: DEBUG [cursor_del_poolL.py:28] Se ejecuta metodo __exit__ 
+12:49:29 PM: DEBUG [cursor_del_poolL.py:34] Commit de la transaccion
+12:49:29 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001966BEE2BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:49:29 PM: WARNING [menu_app_usuarioL.py:18] 
+         id_usuario: 1, 
+            Usuario: Giovanni, 
+            Password: Uppercase1.
+12:54:12 PM: DEBUG [usuarioL.py:42] 
+         id_usuario: 1, 
+            Usuario: Juan, 
+            Password: Garcia
+12:55:01 PM: DEBUG [usuarioL.py:42] 
+         id_usuario: 1, 
+            Usuario: Juan, 
+            Password: Garcia
+12:55:08 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000240DA399490>
+12:55:08 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x00000240DBBC2BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:55:08 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x00000240DBBC2BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:55:11 PM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+12:55:11 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x00000240DBBC2BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:55:11 PM: DEBUG [usuarioDaoL.py:19] Seleccionando usuarios
+12:55:11 PM: DEBUG [cursor_del_poolL.py:28] Se ejecuta metodo __exit__ 
+12:55:11 PM: DEBUG [cursor_del_poolL.py:34] Commit de la transaccion
+12:55:11 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x00000240DBBC2BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:55:11 PM: INFO [menu_app_usuarioL.py:18] 
+         id_usuario: 1, 
+            Usuario: Giovanni, 
+            Password: Uppercase1.
+12:55:33 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000002263BCF9490>
+12:55:33 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000002263D522BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:55:33 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000002263D522BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:55:35 PM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+12:55:35 PM: WARNING [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000002263D522BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:55:35 PM: DEBUG [usuarioDaoL.py:19] Seleccionando usuarios
+12:55:35 PM: DEBUG [cursor_del_poolL.py:28] Se ejecuta metodo __exit__ 
+12:55:35 PM: DEBUG [cursor_del_poolL.py:34] Commit de la transaccion
+12:55:35 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000002263D522BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:55:35 PM: WARNING [menu_app_usuarioL.py:18] 
+         id_usuario: 1, 
+            Usuario: Giovanni, 
+            Password: Uppercase1.
+12:55:49 PM: INFO [menu_app_usuarioL.py:20] Salimos de la aplicación.
+01:48:27 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000277CEA2B670>
+01:48:27 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x00000277CEA4CE10; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:50:49 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001E253DF1310>
+01:50:49 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001E2555D2D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:16:35 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001DAADA21310>
+03:16:35 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001DAAF1E2D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:21:25 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000022CA86D80A0>
+03:21:25 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x0000022CA9ECEBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:21:50 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000019C6F9380A0>
+03:21:50 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x0000019C7113EBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:26:04 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001E36ABB80A0>
+03:26:04 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001E36C3DDBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:26:04 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001E36C3DDBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:26:19 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000019EFF4980A0>
+03:26:19 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x0000019EFF87EBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:26:19 PM: WARNING [usuarioDaoL.py:35] Usuario insertado: 
+         id_usuario: , 
+            Usuario: Mario, 
+            Password: castañeda
+03:26:19 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x0000019EFF87EBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:27:21 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000027603F5B280>
+03:27:21 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x0000027603F7CE10; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:27:24 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x0000027603F7CE10; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:27:24 PM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 1, 
+            Usuario: Giovanni, 
+            Password: Uppercase1.
+03:27:48 PM: WARNING [usuarioDaoL.py:35] Usuario insertado: 
+         id_usuario: None, 
+            Usuario: Justin1, 
+            Password: Justin123
+03:27:48 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x0000027603F7CE10; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:28:09 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001FC22C80310>
+03:28:09 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001FC24472D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:28:12 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001FC24472D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:28:12 PM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 1, 
+            Usuario: Giovanni, 
+            Password: Uppercase1.
+03:40:25 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001D34DB31310>
+03:40:25 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001D34F2F2D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:40:29 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001D34F2F2D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:40:29 PM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 1, 
+            Usuario: Giovanni, 
+            Password: Uppercase1.
+03:42:19 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000018A8D7580A0>
+03:42:19 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x0000018A8EF5DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:42:19 PM: WARNING [usuarioDaoL.py:35] Usuario insertado: 
+         id_usuario: , 
+            Usuario: Mario, 
+            Password: castañeda
+03:42:19 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x0000018A8EF5DBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:42:40 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000279444A80A0>
+03:42:40 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x0000027945CAEBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:42:40 PM: WARNING [usuarioDaoL.py:35] Usuario insertado: 
+         id_usuario: , 
+            Usuario: Mario, 
+            Password: castañeda
+03:42:40 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x0000027945CAEBF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:43:11 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000022BD288B280>
+03:43:11 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x0000022BD28ACE10; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:43:15 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x0000022BD28ACE10; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:43:15 PM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 1, 
+            Usuario: Giovanni, 
+            Password: Uppercase1.
+03:43:15 PM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 2, 
+            Usuario: Ane, 
+            Password: Uppercase
+03:43:15 PM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 3, 
+            Usuario: Mario, 
+            Password: castañeda
+03:43:15 PM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 4, 
+            Usuario: Mario, 
+            Password: castañeda
+03:43:15 PM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 5, 
+            Usuario: Justin1, 
+            Password: Justin123
+03:43:15 PM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 6, 
+            Usuario: Mario, 
+            Password: castañeda
+03:43:15 PM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 7, 
+            Usuario: Mario, 
+            Password: castañeda
+03:48:24 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000029471401310>
+03:48:24 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x0000029472BF2D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:51:31 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000024176E4B280>
+03:51:31 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x0000024176E6CE10; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:51:59 PM: ERROR [cursor_del_poolL.py:31] Ocurrio una exepcion, se hace rollback: 'Usuario' object has no attribute 'rowcount'<class 'AttributeError'> <traceback object at 0x0000024178973700>
+03:51:59 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x0000024176E6CE10; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:52:48 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000019B5270B280>
+03:52:48 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x0000019B5272CE10; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:53:09 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x0000019B5272CE10; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:53:09 PM: WARNING [menu_app_usuarioL.py:38] Usuarios eliminados: 1
+03:55:26 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001565037B280>
+03:55:26 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001565039CE10; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:55:46 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001565039CE10; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:55:46 PM: WARNING [menu_app_usuarioL.py:33] Usuarios actualizados: 1
+03:56:04 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001565039CE10; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:56:04 PM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 1, 
+            Usuario: Giovanni, 
+            Password: Uppercase1.
+03:56:04 PM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 2, 
+            Usuario: Ane, 
+            Password: Uppercase
+03:56:04 PM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 3, 
+            Usuario: Mario, 
+            Password: castañeda
+03:56:04 PM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 4, 
+            Usuario: Mario, 
+            Password: castañeda
+03:56:04 PM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 5, 
+            Usuario: Justin1, 
+            Password: Justin123
+03:56:04 PM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 6, 
+            Usuario: joaquin, 
+            Password: joaquin
+03:56:55 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000126E74E1310>
+03:56:55 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x00000126E8CA2D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:56:57 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x00000126E8CA2D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:57:20 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x00000126E8CA2D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:57:23 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x00000126E8CA2D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:57:44 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x00000126E8CA2D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:58:04 PM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001E02D40B280>
+03:58:04 PM: DEBUG [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001E02D42CE10; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:58:04 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001E02D42CE10; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:58:12 PM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+03:58:12 PM: DEBUG [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001E02D42CE10; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:58:12 PM: DEBUG [usuarioDaoL.py:19] Seleccionando usuarios
+03:58:12 PM: DEBUG [cursor_del_poolL.py:28] Se ejecuta metodo __exit__ 
+03:58:12 PM: DEBUG [cursor_del_poolL.py:34] Commit de la transaccion
+03:58:12 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001E02D42CE10; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:58:12 PM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 1, 
+            Usuario: Giovanni, 
+            Password: Uppercase1.
+03:58:12 PM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 2, 
+            Usuario: Ane, 
+            Password: Uppercase
+03:58:12 PM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 3, 
+            Usuario: Mario, 
+            Password: castañeda
+03:58:12 PM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 4, 
+            Usuario: Mario, 
+            Password: castañeda
+03:58:12 PM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 5, 
+            Usuario: Justin1, 
+            Password: Justin123
+03:58:12 PM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 6, 
+            Usuario: joaquin, 
+            Password: joaquin
+03:58:37 PM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+03:58:37 PM: DEBUG [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001E02D42CE10; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:58:37 PM: WARNING [usuarioDaoL.py:35] Usuario insertado: 
+         id_usuario: None, 
+            Usuario: PanchoLopez, 
+            Password: panchito
+03:58:37 PM: DEBUG [cursor_del_poolL.py:28] Se ejecuta metodo __exit__ 
+03:58:37 PM: DEBUG [cursor_del_poolL.py:34] Commit de la transaccion
+03:58:37 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001E02D42CE10; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:58:37 PM: INFO [menu_app_usuarioL.py:26] Usuarios insertados: 1
+03:59:16 PM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+03:59:16 PM: DEBUG [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001E02D42CE10; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:59:16 PM: DEBUG [usuarioDaoL.py:44] Usuario actualizado: 
+         id_usuario: 4, 
+            Usuario: Malverde, 
+            Password: verde
+03:59:16 PM: DEBUG [cursor_del_poolL.py:28] Se ejecuta metodo __exit__ 
+03:59:16 PM: DEBUG [cursor_del_poolL.py:34] Commit de la transaccion
+03:59:16 PM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001E02D42CE10; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:59:16 PM: WARNING [menu_app_usuarioL.py:33] Usuarios actualizados: 1
+11:38:55 AM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001F9C9641310>
+11:38:55 AM: DEBUG [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001F9CAE22D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:38:55 AM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001F9CAE22D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:39:00 AM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+11:39:00 AM: DEBUG [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001F9CAE22D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:39:00 AM: DEBUG [usuarioDaoL.py:19] Seleccionando usuarios
+11:39:00 AM: DEBUG [cursor_del_poolL.py:28] Se ejecuta metodo __exit__ 
+11:39:00 AM: DEBUG [cursor_del_poolL.py:34] Commit de la transaccion
+11:39:00 AM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001F9CAE22D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:39:00 AM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 1, 
+            Usuario: Giovanni, 
+            Password: Uppercase1.
+11:39:00 AM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 2, 
+            Usuario: Ane, 
+            Password: Uppercase
+11:39:00 AM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 3, 
+            Usuario: Mario, 
+            Password: castañeda
+11:39:00 AM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 4, 
+            Usuario: Malverde, 
+            Password: verde
+11:39:00 AM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 5, 
+            Usuario: Justin1, 
+            Password: Justin123
+11:39:00 AM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 6, 
+            Usuario: joaquin, 
+            Password: joaquin
+11:39:00 AM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 8, 
+            Usuario: PanchoLopez, 
+            Password: panchito
+11:39:21 AM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+11:39:21 AM: DEBUG [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001F9CAE22D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:39:21 AM: WARNING [usuarioDaoL.py:35] Usuario insertado: 
+         id_usuario: None, 
+            Usuario: Paco12, 
+            Password: paquiro
+11:39:21 AM: DEBUG [cursor_del_poolL.py:28] Se ejecuta metodo __exit__ 
+11:39:21 AM: DEBUG [cursor_del_poolL.py:34] Commit de la transaccion
+11:39:21 AM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001F9CAE22D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:39:21 AM: INFO [menu_app_usuarioL.py:26] Usuarios insertados: 1
+11:39:35 AM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000002CC5AF71310>
+11:39:35 AM: DEBUG [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000002CC5C732D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:39:35 AM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000002CC5C732D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:40:07 AM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+11:40:07 AM: DEBUG [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000002CC5C732D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:40:07 AM: DEBUG [usuarioDaoL.py:44] Usuario actualizado: 
+         id_usuario: 1, 
+            Usuario: GiovanniSosa, 
+            Password: Uppercase1,
+11:40:07 AM: DEBUG [cursor_del_poolL.py:28] Se ejecuta metodo __exit__ 
+11:40:07 AM: DEBUG [cursor_del_poolL.py:34] Commit de la transaccion
+11:40:07 AM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000002CC5C732D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:40:07 AM: WARNING [menu_app_usuarioL.py:33] Usuarios actualizados: 1
+11:40:33 AM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+11:40:33 AM: DEBUG [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000002CC5C732D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:40:33 AM: DEBUG [usuarioDaoL.py:53] Usuario eliminado: 
+         id_usuario: 9, 
+            Usuario: None, 
+            Password: None
+11:40:33 AM: DEBUG [cursor_del_poolL.py:28] Se ejecuta metodo __exit__ 
+11:40:33 AM: DEBUG [cursor_del_poolL.py:34] Commit de la transaccion
+11:40:33 AM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000002CC5C732D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:40:33 AM: WARNING [menu_app_usuarioL.py:38] Usuarios eliminados: 1
+11:40:38 AM: INFO [menu_app_usuarioL.py:40] Salimos de la aplicación.
+11:48:01 AM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001DB69001310>
+11:48:01 AM: DEBUG [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001DB6A7C2D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:48:01 AM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001DB6A7C2D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:48:13 AM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+11:48:13 AM: DEBUG [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001DB6A7C2D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:48:13 AM: WARNING [usuarioDaoL.py:35] Usuario insertado: 
+         id_usuario: None, 
+            Usuario: mlara, 
+            Password: 567
+11:48:13 AM: DEBUG [cursor_del_poolL.py:28] Se ejecuta metodo __exit__ 
+11:48:13 AM: DEBUG [cursor_del_poolL.py:34] Commit de la transaccion
+11:48:13 AM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001DB6A7C2D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:48:13 AM: INFO [menu_app_usuarioL.py:26] Usuarios insertados: 1
+11:48:40 AM: INFO [menu_app_usuarioL.py:40] Salimos de la aplicación...
+11:49:05 AM: WARNING [conexionL.py:27] Conexion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001544BCF1310>
+11:49:05 AM: DEBUG [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001544D4B2D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:49:05 AM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001544D4B2D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:49:08 AM: DEBUG [cursor_del_poolL.py:19] Inicio del metodo with __enter__
+11:49:08 AM: DEBUG [conexionL.py:38] Conexion obtenida del pool: <connection object at 0x000001544D4B2D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:49:08 AM: DEBUG [usuarioDaoL.py:19] Seleccionando usuarios
+11:49:08 AM: DEBUG [cursor_del_poolL.py:28] Se ejecuta metodo __exit__ 
+11:49:08 AM: DEBUG [cursor_del_poolL.py:34] Commit de la transaccion
+11:49:08 AM: WARNING [conexionL.py:45] Regresando la conexion al pool: <connection object at 0x000001544D4B2D00; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:49:08 AM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 1, 
+            Usuario: GiovanniSosa, 
+            Password: Uppercase1,
+11:49:08 AM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 2, 
+            Usuario: Ane, 
+            Password: Uppercase
+11:49:08 AM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 3, 
+            Usuario: Mario, 
+            Password: castañeda
+11:49:08 AM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 4, 
+            Usuario: Malverde, 
+            Password: verde
+11:49:08 AM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 5, 
+            Usuario: Justin1, 
+            Password: Justin123
+11:49:08 AM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 6, 
+            Usuario: joaquin, 
+            Password: joaquin
+11:49:08 AM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 8, 
+            Usuario: PanchoLopez, 
+            Password: panchito
+11:49:08 AM: WARNING [menu_app_usuarioL.py:20] 
+         id_usuario: 10, 
+            Usuario: mlara, 
+            Password: 567

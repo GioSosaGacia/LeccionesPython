@@ -54,7 +54,8 @@ class Conexion:
     #cierra todas las conexiones dentro del pool de conexiones def obtenerPool
     def cerrarConexiones(cls):
         #OBTENER Pool no existe lo crea y si no lo retorna
-        cls.obtenerPool().closeall()#
+        cls.obtenerPool().closeall()
+
 
 if __name__ == '__main__':
     conexion1 = Conexion.obtenerConexion()
